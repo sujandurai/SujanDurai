@@ -88,11 +88,9 @@ Edge AI solution for plant-level disease detection and intelligent agricultural 
 
 🔹 Bare-Metal Programming
 
-🔹 Real-Time Operating Systems (RTOS)
-
 🔹 ARM Cortex-M Architecture
 
-🔹 STM32 & Microcontroller Development
+🔹 PIC32 , STM32 & Microcontroller Development
 
 🔹 Edge AI & TinyML
 
@@ -102,9 +100,6 @@ Edge AI solution for plant-level disease detection and intelligent agricultural 
 
 🔹 Semiconductor Technologies
 
-🔹 Hardware-Software Co-Design
-
-🔹 Intelligent Edge Devices
 
 <img width="1897" height="41" alt="image" src="https://github.com/user-attachments/assets/5db364bf-abce-4402-b239-8ef04bf4bb00" />
 
