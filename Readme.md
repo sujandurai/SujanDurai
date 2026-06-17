@@ -3,20 +3,19 @@
 
 
 
-                                                     👋 Hi there, I'm Sujan
+                                                        👋 Hi there, I'm Sujan
 
-🎓 Electronics & Communication Engineering Student | 🔧 Embedded Systems & Firmware Developer | 📍 Chennai, India
-
+🎓 Electronics & Communication Engineering Student | 🔧 Embedded Firmware Engineer | 📍 India
 
 🚀 About Me
 
-I'm an Embedded Systems enthusiast with strong hands-on experience in C, Embedded C, and Bare-Metal Programming.
+I'm passionate about building intelligent embedded systems that bridge hardware and software.
 
-I specialize in developing firmware for PIC16, PIC32, ESP32, and Aries V2 microcontrollers, with a focus on real-time embedded systems, hardware-software integration, and low-level system design.
+With hands-on experience in C, Embedded C, and Bare-Metal Programming, I develop firmware for PIC16, PIC32, ESP32, and Aries V2 platforms. My interests include real-time systems, low-level driver development, communication protocols, IoT, robotics, and embedded product design.
 
-I have built projects involving sensor interfacing, motor control, communication protocols (UART, I2C, SPI, PWM), PCB design, and embedded firmware development.
+I enjoy transforming ideas into working prototypes through hardware design, firmware development, sensor integration, and system optimization.
 
-Passionate about IoT, Robotics, Intelligent Edge Devices, and Firmware Engineering, I continuously explore RTOS, advanced embedded architectures, and product-oriented development.
+🏅 Microchip Special Prize Winner
+🏅 Vegathon Carbonox Runner-Up
 
-🏆 Microchip Special Prize Winner
-🏆 Vegathon Carbonox Runner-Up
+💡 "Building reliable embedded solutions from silicon to system."
