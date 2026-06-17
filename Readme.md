@@ -107,5 +107,10 @@ Edge AI solution for plant-level disease detection and intelligent agricultural 
 
 <img width="1897" height="41" alt="image" src="https://github.com/user-attachments/assets/5db364bf-abce-4402-b239-8ef04bf4bb00" />
 
+## 🐍 GitHub Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sujandurai/sujandurai/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 
