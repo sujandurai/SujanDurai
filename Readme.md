@@ -60,3 +60,21 @@ Embedded calculator featuring keypad input, LCD interface, and arithmetic expres
 
 ### 🚦 AI-Based Crop Disease Detection System
 Edge AI solution for plant-level disease detection and intelligent agricultural monitoring. *(In Progress)*
+
+
+<img width="1897" height="41" alt="image" src="https://github.com/user-attachments/assets/5db364bf-abce-4402-b239-8ef04bf4bb00" />
+
+
+## 📜 Certifications
+
+🏅 Microchip Academia – Advanced C Programming , FreeRtos foundamenals 
+
+🏅 Mastering STM32 and RTOS: From Bare-Metal to Real-Time Systems – PHYTEC Embedded Pvt. Ltd.
+
+🏅 C Programming – Etalvis Learning
+
+🏅 Hindi Parichaya Examination – Dakshina Bharat Hindi Prachar Sabha
+
+
+<img width="1897" height="41" alt="image" src="https://github.com/user-attachments/assets/5db364bf-abce-4402-b239-8ef04bf4bb00" />
+
