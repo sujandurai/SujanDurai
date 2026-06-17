@@ -8,7 +8,8 @@
 🎓 Electronics & Communication Engineering Student | 🔧 Embedded Firmware Engineer | 📍 India
 
 
-<img width="929" height="64" alt="image" src="https://github.com/user-attachments/assets/82c0ea1f-524d-446c-948f-cfa81571d72e" />
+<img width="935" height="43" alt="image" src="https://github.com/user-attachments/assets/db9ccaeb-839d-40d4-984c-79a162792b39" />
+
 
 
 
