@@ -22,6 +22,7 @@ With hands-on experience in C, Embedded C, and Bare-Metal Programming, I develop
 I enjoy transforming ideas into working prototypes through hardware design, firmware development, sensor integration, and system optimization.
 
 🏅 Microchip Special Prize Winner
+
 🏅 Vegathon Carbonox Runner-Up
 
 💡 "Building reliable embedded solutions from silicon to system."
