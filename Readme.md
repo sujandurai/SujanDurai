@@ -7,6 +7,10 @@
 
 🎓 Electronics & Communication Engineering Student | 🔧 Embedded Firmware Engineer | 📍 India
 
+
+<img width="895" height="232" alt="image" src="https://github.com/user-attachments/assets/e7efec18-63e0-481f-b03a-0c215e49a964" />
+
+
 🚀 About Me
 
 I'm passionate about building intelligent embedded systems that bridge hardware and software.
