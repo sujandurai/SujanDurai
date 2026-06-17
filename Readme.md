@@ -5,7 +5,7 @@
 
                                                         👋 Hi there, I'm Sujan
 
-🎓 Electronics & Communication Engineering Student | 🔧 Embedded Firmware Engineer | 📍 India
+                        🎓 Electronics & Communication Engineering Student | 🔧 Embedded Firmware Engineer | 📍 India
 
 
 <img width="1897" height="41" alt="image" src="https://github.com/user-attachments/assets/70197075-0073-4e30-8b09-7327b9922ab8" />
