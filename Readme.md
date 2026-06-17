@@ -79,7 +79,33 @@ Edge AI solution for plant-level disease detection and intelligent agricultural 
 <img width="1897" height="41" alt="image" src="https://github.com/user-attachments/assets/5db364bf-abce-4402-b239-8ef04bf4bb00" />
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sujandurai&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 🎯 Areas of Interest
+
+🔹 Embedded Systems
+
+🔹 Firmware Development
+
+🔹 Bare-Metal Programming
+
+🔹 Real-Time Operating Systems (RTOS)
+
+🔹 ARM Cortex-M Architecture
+
+🔹 STM32 & Microcontroller Development
+
+🔹 Edge AI & TinyML
+
+🔹 Internet of Things (IoT)
+
+🔹 Embedded Linux
+
+🔹 Semiconductor Technologies
+
+🔹 Hardware-Software Co-Design
+
+🔹 Intelligent Edge Devices
+
+<img width="1897" height="41" alt="image" src="https://github.com/user-attachments/assets/5db364bf-abce-4402-b239-8ef04bf4bb00" />
+
+
 
