@@ -25,3 +25,9 @@ I enjoy transforming ideas into working prototypes through hardware design, firm
 🏅 Vegathon Carbonox Runner-Up
 
 💡 "Building reliable embedded solutions from silicon to system."
+
+<img width="1897" height="41" alt="image" src="https://github.com/user-attachments/assets/5db364bf-abce-4402-b239-8ef04bf4bb00" />
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ac7394a3-9007-43d7-bef7-3da7b7ca9801" />
+
