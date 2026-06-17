@@ -17,13 +17,13 @@
 
 I'm passionate about building intelligent embedded systems that bridge hardware and software.
 
-With hands-on experience in C, Embedded C, and Bare-Metal Programming, I develop firmware for PIC16, PIC32, ESP32, and Aries V2 platforms. My interests include real-time systems, low-level driver development, communication protocols, IoT, robotics, and embedded product design.
+With hands-on experience in C, Embedded C, and Bare-Metal Programming, I develop firmware for PIC16, And Works in PIC32, ESP32, and Aries V2 platforms. My interests include real-time systems, low-level driver development, communication protocols, IoT, robotics, and embedded product design.
 
 I enjoy transforming ideas into working prototypes through hardware design, firmware development, sensor integration, and system optimization.
 
-🏅 Microchip Special Prize Winner
+🏅 Microchip Special Prize Winner 
 
-🏅 Vegathon Carbonox Runner-Up
+🏅 Vegathon Carbonox Runner-Up (CDAC -KOCHI)
 
 💡 "Building reliable embedded solutions from silicon to system."
 
@@ -60,7 +60,7 @@ Digital hardware implementation for decimal-to-hexadecimal conversion using comb
 Embedded calculator featuring keypad input, LCD interface, and arithmetic expression evaluation.
 
 ### 🚦 AI-Based Crop Disease Detection System
-Edge AI solution for plant-level disease detection and intelligent agricultural monitoring. *(In Progress)*
+Edge AI solution for plant-level disease detection and intelligent agricultural monitoring. 
 
 
 <img width="1897" height="41" alt="image" src="https://github.com/user-attachments/assets/5db364bf-abce-4402-b239-8ef04bf4bb00" />
@@ -68,7 +68,7 @@ Edge AI solution for plant-level disease detection and intelligent agricultural 
 
 ## 📜 Certifications
 
-🏅 Microchip Academia – Advanced C Programming , FreeRtos foundamenals 
+🏅 Microchip Acadamic Course – Advanced C Programming , FreeRtos foundamenals 
 
 🏅 Mastering STM32 and RTOS: From Bare-Metal to Real-Time Systems – PHYTEC Embedded Pvt. Ltd.
 
