@@ -107,10 +107,27 @@ Edge AI solution for plant-level disease detection and intelligent agricultural 
 
 <img width="1897" height="41" alt="image" src="https://github.com/user-attachments/assets/5db364bf-abce-4402-b239-8ef04bf4bb00" />
 
-## 🐍 GitHub Snake
+## 🔗 Connect with Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sujandurai/sujandurai/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="https://github.com/sujandurai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sujan-d-59755a321">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:jdsoffical07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/sujandurai">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
+---
+
+<img width="1897" height="41" alt="image" src="https://github.com/user-attachments/assets/5db364bf-abce-4402-b239-8ef04bf4bb00" />
 
