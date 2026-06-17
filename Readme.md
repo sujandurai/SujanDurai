@@ -17,7 +17,7 @@
 
 I'm passionate about building intelligent embedded systems that bridge hardware and software.
 
-With hands-on experience in C, Embedded C, and Bare-Metal Programming, I develop firmware for PIC16, And Works in PIC32, ESP32, and Aries V2 platforms. My interests include real-time systems, low-level driver development, communication protocols, IoT, robotics, and embedded product design.
+With hands-on experience in C, Embedded C, and Bare-Metal Programming, I develop firmware for PIC16, And Works in PIC32, ESP32, STM32 and Aries V2 platforms. My interests include real-time systems, low-level driver development, communication protocols, IoT, robotics, and embedded product design.
 
 I enjoy transforming ideas into working prototypes through hardware design, firmware development, sensor integration, and system optimization.
 
